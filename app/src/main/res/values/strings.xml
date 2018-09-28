@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="errorToast">can not open the app, try restart</string>
+</resources>
